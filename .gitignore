@@ -1,7 +1,1 @@
-  function add_text_field($name, $val, $type = "text", $required = "y", $min = 0, $length = 0) {
-		$this->fields[$name]['value'] = $val;
-		$this->fields[$name]['type'] = $type;
-		$this->fields[$name]['required'] = $required;
-		$this->fields[$name]['min'] = $min;
-		$this->fields[$name]['length'] = $length;
-	}
+.
